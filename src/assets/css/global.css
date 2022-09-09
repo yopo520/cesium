@@ -1,0 +1,21 @@
+html {
+    font-family: sans-serif; /* 默认字体 */
+    font-size: 100%; /* 调整字体大小 */
+    -ms-text-size-adjust: 100%; /* IE浏览器 */
+   -webkit-text-size-adjust: 100%; /* FireFox浏览器 */
+}
+
+body{
+      margin: 0; /* 外边距 */
+      padding: 0; /* 内边距 */
+      border: 0; /* 边框 */
+	  height: 100%;
+	  width: 100%;
+	  position: absolute;
+}
+#app{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
